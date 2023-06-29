@@ -15,3 +15,16 @@
   Download Mongodb, you can either create or use your own account, or use the given account (jhemercris_colas : Smartbro10) and input IP address for the database to work.
 
 Main source code is the CountMe_Login.py, individual windows can also be accessed.
+
+     a. Download the code through Github repository and download the additional required assets to run the code in this link
+      (https://drive.google.com/file/d/1XBCxAXRRqAEwnmoU2sG0j0aEBACRj1QP/view?usp=drive_link),  
+     
+     or download the whole package in this link
+     
+     (https://drive.google.com/file/d/1aGYl4zbxfL5EpurpLItSI-y3wtKNdrE5/view?usp=drive_link)
+     
+     b. Extract the folder.
+     
+     c. After downloading, open the whole folder and load it through Visual Studio Code.
+     
+     c. The Login window will appear, register if no account yet, then login.
