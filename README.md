@@ -13,3 +13,5 @@
 # Additional Instructions
 
   Download Mongodb, you can either create or use your own account, or use the given account (jhemercris_colas : Smartbro10) and input IP address for the database to work.
+
+Main source code is the CountMe_Login.py, individual windows can also be accessed.
