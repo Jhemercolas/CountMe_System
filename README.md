@@ -16,15 +16,23 @@
 
 Main source code is the CountMe_Login.py, individual windows can also be accessed.
 
-     a. Download the code through Github repository and download the additional required assets to run the code in this link
+     1. Download the code through Github repository
+
+     (https://github.com/Jhemercolas/CountMe_System.git)
+     
+     and download the additional required assets to run the code in this link
       (https://drive.google.com/file/d/1XBCxAXRRqAEwnmoU2sG0j0aEBACRj1QP/view?usp=drive_link),  
      
      or download the whole package in this link
      
      (https://drive.google.com/file/d/1aGYl4zbxfL5EpurpLItSI-y3wtKNdrE5/view?usp=drive_link)
      
-     b. Extract the folder.
+     2. Extract the folder.
      
-     c. After downloading, open the whole folder and load it through Visual Studio Code.
+     3. After downloading, open the whole folder and load it through Visual Studio Code.
      
-     c. The Login window will appear, register if no account yet, then login.
+     4. Install the required dependencies using this command "pip install -r requirements.txt"
+     
+     5. To run the code, either click the "Run and Debug" button or enter the command "python3 CountMe_Login.py"
+     
+     6. The Login window will appear, register if no account yet, then login. 
